@@ -1,0 +1,16 @@
+# Large files
+codex/logs_2.sqlite
+codex/logs_2.sqlite-shm
+codex/logs_2.sqlite-wal
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
